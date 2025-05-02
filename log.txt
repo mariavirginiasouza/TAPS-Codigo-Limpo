@@ -1,0 +1,23 @@
+LOG DE ATIVIDADES - Projeto Código Limpo
+
+Repositório: https://github.com/mavizika02/TAPS-Codigo-Limpo
+
+Branch: main (ou master)
+- Commit: 02/05/2025 - Adição do código original da classe Produto
+
+Branch: codigo-limpo
+- Commit: 02/05/2025 - Renomeação de variáveis para maior clareza
+- Commit: 02/05/2025 - Adição de validações nos métodos
+- Commit: 02/05/2025 - Inclusão de comentários explicativos
+- Commit: 02/05/2025 - Melhoria do método toString com formatação
+- Commit: 02/05/2025 - Refatoração final com princípios de código limpo
+
+Pull Request:
+- PR criado: 02/05/2025 - Comparação entre 'codigo-limpo' e 'main'
+- Comentários recebidos de: Vitória Lopes
+- Sugestões analisadas e discutidas
+- Merge realizado com sucesso em 02/05/2025
+
+Dificuldades:
+- Nenhuma dificuldade técnica significativa.
+- Aprendi a aplicar princípios de código limpo com mais clareza no uso de variáveis e estruturação de métodos.
