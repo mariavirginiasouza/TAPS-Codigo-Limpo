@@ -42,7 +42,7 @@ public class Produto {
 
     @param quantidade Quantidade a ser adicionada deve ser positiva
     public void adicionarEstoque(int quantidade) {
-         if (quantidade > 0) {
+        if (quantidade > 0) {
             quantidadeEmEstoque += quantidade;
         } else {
             System.out.println("Quantidade inválida para adicionar ao estoque.");
